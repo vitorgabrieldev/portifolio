@@ -1,0 +1,23 @@
+.pagOne
+{
+    background: url(/public/medias/images/bg-Pag-Main.jpg);
+}
+
+.pagOneCape
+{
+    backdrop-filter: blur(5px);
+}
+
+.linkHeaderMain
+{
+
+    color: #fefefe;
+    transition: .3s;
+
+
+}
+.linkHeaderMain:hover
+{
+    color: #fefefe;
+    background: rgba(0, 0, 0, 0.514);
+}
