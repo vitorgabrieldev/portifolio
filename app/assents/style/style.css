@@ -64,7 +64,7 @@
     height: 100%;
     z-index: 1;
 
-    background: url(app/src/images/backgroundPage1.jpg);
+    background: url(../../src/images/backgroundPage1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
